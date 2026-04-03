@@ -1,0 +1,9 @@
+pandas
+requests
+beautifulsoup4
+sqlalchemy
+streamlit
+schedule
+plotly
+flask   # optional, not used directly but safe to have
+ 
