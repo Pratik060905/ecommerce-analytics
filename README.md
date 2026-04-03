@@ -12,8 +12,6 @@ Automated pipeline to collect product prices from multiple e-commerce sites (Ama
 
 ## Automate
 - Use python scripts/scheduler.py (runs while machine is on) or crontab to run scripts/etl_pipeline.py daily.
-
 ## Notes
 - Respect sites' terms and rate limits.
 - Use FakeStoreAPI fallback if scraping fails.
- 
